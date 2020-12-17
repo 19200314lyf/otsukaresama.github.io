@@ -3,10 +3,10 @@
   <title>bbq的地盘</title>
   
   <subtitle>养猪的，杀猪的，吃肉的</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="http://galaxysamurai.com/atom.xml" rel="self"/>
   
   <link href="http://galaxysamurai.com/"/>
-  <updated>2020-12-17T05:32:15.514Z</updated>
+  <updated>2020-12-17T08:42:15.956Z</updated>
   <id>http://galaxysamurai.com/</id>
   
   <author>
@@ -14,29 +14,28 @@
     
   </author>
   
-  <generator uri="http://hexo.io/">Hexo</generator>
+  <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>观黑天鹅有感</title>
     <link href="http://galaxysamurai.com/2020/12/16/guan-hei-tian-e-you-gan/"/>
     <id>http://galaxysamurai.com/2020/12/16/guan-hei-tian-e-you-gan/</id>
     <published>2020-12-16T13:33:47.000Z</published>
-    <updated>2020-12-17T05:32:15.514Z</updated>
+    <updated>2020-12-17T08:42:15.956Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;哎呀呀&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;C:/Users/lenovo/Desktop/%E8%A5%BF%E5%8C%BA%E5%B0%8F%E6%B9%96.jpg&quot;
+    <summary type="html">&lt;p&gt;哎呀呀&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
         
       
     
-    </summary>
     
-      <category term="随笔" scheme="http://galaxysamurai.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="随笔" scheme="http://galaxysamurai.com/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
   </entry>
