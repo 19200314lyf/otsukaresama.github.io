@@ -673,7 +673,7 @@ $(function () {
 
         window.onbeforeunload = function(event) {
             if(!ap.audio.paused){
-				// ap.pause();
+				ap.pause();
                 musicIndex = ap.list.index;
                 musicTime = ap.audio.currentTime;
                 localStorage.setItem("musicIndex",musicIndex);
