@@ -259,7 +259,7 @@
         <div class="brand">
             <div class="title center-align">
                 
-                养猪的，杀猪的，吃肉的
+                养猪的，杀猪的，吃肉的。
                 
             </div>
 
@@ -714,7 +714,7 @@
                    loop='all'
                    order='random'
                    preload='auto'
-                   volume='0.6'
+                   volume='0.5'
                    list-folded='true'
         >
         </meting-js>
@@ -1037,7 +1037,7 @@ $(function () {
 
         window.onbeforeunload = function(event) {
             if(!ap.audio.paused){
-				ap.pause();
+				// ap.pause();
                 musicIndex = ap.list.index;
                 musicTime = ap.audio.currentTime;
                 localStorage.setItem("musicIndex",musicIndex);
